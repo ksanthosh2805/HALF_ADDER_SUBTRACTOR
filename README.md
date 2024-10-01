@@ -80,3 +80,4 @@ endmodule
 **Output/TIMING Waveform**
 ![output](./3.png)
 **Result:**
+Thus Implementation-of-Half-Adder-and-Half Subtractor-circuit is done and verified using Verilog Program
