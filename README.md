@@ -78,11 +78,10 @@ endmodule
 
 **Output/TIMING Waveform**
 
-![image](https://github.com/user-attachments/assets/18279d23-6756-49a9-9ed8-89b1a9eb6d2d)
-
-
+![image](https://github.com/user-attachments/assets/307afe36-bcfc-4e86-a44a-da8b9b90f762)
 
 **Truthtable**
+
 ![image](https://github.com/user-attachments/assets/430175d7-8005-4d14-a9ba-2f136891022e)
 
 
