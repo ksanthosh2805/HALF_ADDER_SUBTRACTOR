@@ -73,6 +73,7 @@ endmodule
 ## Developed by: Santhosh K
 ## RegisterNumber: 212223100050
 **RTL Schematic**
+
 ![image](https://github.com/user-attachments/assets/27183020-a9e4-48b3-9ecf-eb219fd8da78)
 
 **Output/TIMING Waveform**
