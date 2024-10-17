@@ -77,7 +77,9 @@ endmodule
 ![image](https://github.com/user-attachments/assets/27183020-a9e4-48b3-9ecf-eb219fd8da78)
 
 **Output/TIMING Waveform**
-![image](https://github.com/user-attachments/assets/59d93804-e248-4eff-ad55-8d8687f4aaf4)
+
+![image](https://github.com/user-attachments/assets/18279d23-6756-49a9-9ed8-89b1a9eb6d2d)
+
 
 
 **Truthtable**
