@@ -33,8 +33,6 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-**Truthtable**
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -89,6 +87,11 @@ endmodule
 ![output](./3.png)
 #### HALF SUBTRACTOR
 ![output](./4.png)
+
+**Truth Table**
+
+![output](./TruthTable1.png)
+![output](./TruthTable2.png)
 **Result:**
 
 Thus Implementation-of-Half-Adder-and-Half Subtractor-circuit is done and verified using Verilog Program
