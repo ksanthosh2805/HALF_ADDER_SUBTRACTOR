@@ -92,6 +92,7 @@ endmodule
 
 ![output](./TruthTable1.png)
 ![output](./TruthTable2.png)
+
 **Result:**
 
 Thus Implementation-of-Half-Adder-and-Half Subtractor-circuit is done and verified using Verilog Program
